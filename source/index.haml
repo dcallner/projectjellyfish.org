@@ -102,43 +102,24 @@
       .jellyfish-header.jellyfish--engage
         = image_tag("jellyfish-engage.jpg")
         %h3 How to Engage
-      %form{action: '#'}
+      %form#form1.wufoo.topLabel.page{"accept-charset" => "UTF-8", :action => "https://projectjellyfish.wufoo.com/forms/z1qwvb2d1do31v9/#public", :autocomplete => "off", :enctype => "multipart/form-data", :method => "post", :name => "form1", :novalidate => ""}
         .g.mbs
           .g-b.g-b--m--1of3.input
             .cell.cell--s
-              %input.input-text#name{type: 'text', name: 'name', required: 'required'}
-              %label.input-label{for: 'entry_2003026827'} Full Name
+              %input.input-text#name{type: 'text', name: 'Field1', required: 'required'}
+              %label.input-label{for: 'Field1'} Full Name
           .g-b.g-b--m--1of3.input
             .cell.cell--s
-              %input.input-text#email{type: 'text', name: 'email', required: 'required'}
-              %label.input-label{for: 'entry_826366713'} Email
+              %input.input-text#email{type: 'text', name: 'Field2', required: 'required'}
+              %label.input-label{for: 'Field2'} Email
           .g-b.g-b--m--1of3.input
             .cell.cell--s
-              %input.input-text#organization{type: 'text', name: 'Organization', required: 'required'}
-              %label.input-label{for: 'entry_1700265725'} Organization
+              %input.input-text#organization{type: 'text', name: 'Field3', required: 'required'}
+              %label.input-label{for: 'Field3'} Organization
         .cell.cell--s
           %input.btn{type: 'submit', value: 'Make Request'}
+          %input#idstamp{:name => "idstamp", :type => "hidden", :value => "iRiCDpzIFOFs+E2daYphj6B22pLJGGoK2VgYJ1P6qAo="}
 
-          <div id="wufoo-z1qwvb2d1do31v9">
-          Fill out my <a href="https://projectjellyfish.wufoo.com/forms/z1qwvb2d1do31v9">online form</a>.
-          </div>
-          <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">There are tons of <a href="http://www.wufoo.com/features/">Wufoo features</a> to help make your forms awesome.</div>
-          <script type="text/javascript">var z1qwvb2d1do31v9;(function(d, t) {
-          var s = d.createElement(t), options = {
-          'userName':'projectjellyfish',
-          'formHash':'z1qwvb2d1do31v9',
-          'autoResize':true,
-          'height':'380',
-          'async':true,
-          'host':'wufoo.com',
-          'header':'show',
-          'ssl':true};
-          s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-          s.onload = s.onreadystatechange = function() {
-          var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-          try { z1qwvb2d1do31v9 = new WufooForm();z1qwvb2d1do31v9.initialize(options);z1qwvb2d1do31v9.display(); } catch (e) {}};
-          var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-          })(document, 'script');</script>
 
     %h3 Partners
     .cell.cell--s
