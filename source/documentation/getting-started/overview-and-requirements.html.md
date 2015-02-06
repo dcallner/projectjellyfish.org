@@ -14,9 +14,9 @@ __Jellyfish-Core__ is the API layer of Jellyfish. It provides a REST based API f
 #### Requirements
 Jellyfish has the following requirements:
 
-    •	Ruby 2.1.5
-    •	PostgreSQL 9.3.x
-    •	ManageIQ (Anand)
+- Ruby 2.1.5
+- PostgreSQL 9.3.x
+- ManageIQ (Anand)
 
 For the latest documents on Jellyfish API please visit: [github.com/projectjellyfish/core](https://github.com/projectjellyfish/api)
 
