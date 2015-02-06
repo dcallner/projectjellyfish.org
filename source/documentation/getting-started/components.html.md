@@ -19,3 +19,8 @@ Project Jellyfish is using the Chef configuration management tool to install, co
 
 
 [Find our Cookbooks in the Supermarket](https://supermarket.chef.io/users/boozallenhamilton)
+
+
+#### Chef
+
+###### Coming Soon!
