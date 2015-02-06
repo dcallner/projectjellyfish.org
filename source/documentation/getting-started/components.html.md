@@ -23,4 +23,4 @@ Project Jellyfish is using the Chef configuration management tool to install, co
 
 #### Sensu
 
-###### Coming Soon!
+Sensu integration coming soon!
