@@ -18,8 +18,8 @@ Jellyfish-Core has the following requirements:
     •	PostgreSQL 9.3.x
     •	ManageIQ (Anand)
 
-For the latest documents on Jellyfish Core please visit: [github.com/projectjellyfish/core](http://github.com/projectjellyfish/core/blob/master/README.md)
+For the latest documents on Jellyfish Core please visit: [github.com/projectjellyfish/core](https://github.com/projectjellyfish/core)
 
 __Jellyfish-UX__ is the HTML5 User Interface for Project Jellyfish. It provides an HTML5 front-end to Jellyfish-Core for users to purchase services, and for admins to add new products and services.
 
-For the latest documents on Jellyfish-UX please visit: [github.com/projectjellyfish/ux](http://github.com/projectjellyfish/ux/blob/master/README.md)
+For the latest documents on Jellyfish-UX please visit: [github.com/projectjellyfish/ux](https://github.com/projectjellyfish/ux)
