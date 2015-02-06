@@ -15,7 +15,9 @@ To report bugs and other issues, create issues within github for each respective
 [github.com/projectjellyfish/ux/issues](https://github.com/projectjellyfish/ux/issues)
 [github.com/projectjellyfish/api/issues](https://github.com/projectjellyfish/api/issues)
 
-The ManageIQ community has a bulletin board for questions about its project at [talk.mangageiq.org](http://talk.manageiq.org). As well, report bugs and other issues with ManageIQ here: [github.com/ManageIQ/manageiq/issues](https://github.com/ManageIQ/manageiq/issues)
+The ManageIQ community has a bulletin board for questions about its project at [talk.mangageiq.org](http://talk.manageiq.org).
+
+As well, report bugs and other issues with ManageIQ here: [github.com/ManageIQ/manageiq/issues](https://github.com/ManageIQ/manageiq/issues)
 
 #### Become a Jellyfish
 We love to see contributors showing the commitment that means we can make you a committer and invite you join in to shape the future of a project.
