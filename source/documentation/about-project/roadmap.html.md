@@ -6,10 +6,39 @@ status: published
 title: Roadmap
 ---
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas faucibus mollis interdum. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+## General Code Improvements
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit tempus porttitor. Donec sed odio dui. Nullam id dolor id nibh ultricies vehicula ut id elit.
+##### UI / UX
 
-Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor.
+     •	Dashboard with health and status widgets
+     •	Administrative dashboard that provides overview of environments, and product order metrics
+     •	Improved product catalog filtering
+     •	Catalog product search capabilities
+     •	Ability to add tags to Products
+     •	Question based policy enforcement of product catalog at Project and Order level
+     •	Tool to compare products on price, performance, etc.
+     •	Enhanced End-user controls for Services
+     •	Docker support
+     •	Ability for users and admins to save their own customized bundles of catalog items
 
-Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum.
+##### Chargeback / Showback
+     •	Versioned service pricing tables
+     •	Direct AWS charge report import capability
+
+##### Modules, Blueprints, Product Types
+* Modules should be able to add tabs and fields to the Admin screens
+* Module for Sensu support
+* Add a dataset Product Type
+* Additional Blueprints
+
+##### Logging
+* Support for external logging sources
+
+##### Security
+* SSO ability
+* Create a PKI card authentication module
+
+##### Cloud Service Providers
+* Microsoft Azure support
+* Support for CloudFormations
+* Expanded options for AWS product types

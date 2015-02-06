@@ -6,10 +6,22 @@ status: published
 title: Overview and Requirements
 ---
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas faucibus mollis interdum. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#### Overview
+Project Jellyfish is an IT broker system. It allows administrators to create a product catalog of any type of service (IaaS, TaaS, PaaS, or even Staff) and allows them to be assigned a cost, and then users can create projects and add those services to a project. Jellyfish current supports IaaS via ManageIQ and Chef.  Project Jellyfish has 3 main components: Jellyfish-Core, Jellyfish-UX, and ManageIQ.
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit tempus porttitor. Donec sed odio dui. Nullam id dolor id nibh ultricies vehicula ut id elit.
+__Jellyfish-Core__ is the API layer of Jellyfish. It provides a REST based API for Jellyfish-UX and for the Jellyfish Mobile application.
 
-Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor.
+#### Requirements
+Jellyfish-Core has the following requirements:
 
-Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum.
+    •	Ruby 2.1.5
+    •	PostgreSQL 9.3.x
+    •	ManageIQ (Anand)
+
+
+
+For the latest documents on Jellyfish Core please visit: [github.com/projectjellyfish/core](http://github.com/projectjellyfish/core/blob/master/README.md)
+
+__Jellyfish-UX__ is the HTML5 User Interface for Project Jellyfish. It provides an HTML5 front-end to Jellyfish-Core for users to purchase services, and for admins to add new products and services.
+
+For the latest documents on Jellyfish-UX please visit: [github.com/projectjellyfish/ux](http://github.com/projectjellyfish/ux/blob/master/README.md)
