@@ -10,20 +10,20 @@ title: Roadmap
 
 ##### UI / UX
 
-     •	Dashboard with health and status widgets
-     •	Administrative dashboard that provides overview of environments, and product order metrics
-     •	Improved product catalog filtering
-     •	Catalog product search capabilities
-     •	Ability to add tags to Products
-     •	Question based policy enforcement of product catalog at Project and Order level
-     •	Tool to compare products on price, performance, etc.
-     •	Enhanced End-user controls for Services
-     •	Docker support
-     •	Ability for users and admins to save their own customized bundles of catalog items
+*	Dashboard with health and status widgets
+*	Administrative dashboard that provides overview of environments, and product order metrics
+*	Improved product catalog filtering
+*	Catalog product search capabilities
+*	Ability to add tags to Products
+*	Question based policy enforcement of product catalog at Project and Order level
+*	Tool to compare products on price, performance, etc.
+*	Enhanced End-user controls for Services
+*	Docker support
+*	Ability for users and admins to save their own customized bundles of catalog items
 
 ##### Chargeback / Showback
-     •	Versioned service pricing tables
-     •	Direct AWS charge report import capability
+* Versioned service pricing tables
+* Direct AWS charge report import capability
 
 ##### Modules, Blueprints, Product Types
 * Modules should be able to add tabs and fields to the Admin screens
