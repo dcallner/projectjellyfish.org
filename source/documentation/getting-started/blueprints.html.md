@@ -12,6 +12,7 @@ A Jellyfish blueprint is a packaged solution that formulates how to take the cor
 The Basic Cloud Broker blueprint provides broker functionality with a simple setup of combining core with a single component.
 
 Components:
+
 *  [Jellyfish Core](https://github.com/projectjellyfish/api)
 *  [ManageIQ](http://manageiq.org/download/)
 
@@ -20,6 +21,7 @@ Components:
 If you need a more advanced system that takes advantage of the benefits of Chef such as simplifying the catalog creation and allowing for a more complex bundled application stacks and advanced application monitoring use the Blueprint below.
 
 Components:
+
 *  [Jellyfish Core](https://github.com/projectjellyfish/api)
 *  [ManageIQ](http://manageiq.org/download/)
 *  [Chef](https://supermarket.chef.io/users/boozallenhamilton)
