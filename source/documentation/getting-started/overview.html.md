@@ -12,3 +12,9 @@ Project Jellyfish is an IT broker system. It allows administrators to create a p
 For the latest documents on Jellyfish API please visit: [github.com/projectjellyfish/core](https://github.com/projectjellyfish/api)
 
 For the latest documents on Jellyfish-UX please visit: [github.com/projectjellyfish/ux](https://github.com/projectjellyfish/ux)
+
+
+Screenshots:
+
+<img src="source/assets/screenshots/web/web1.png" alt="Screenshot 1" height="42" width="42">
+<img src="source/assets/screenshots/web/web2.png" alt="Screenshot 2" height="42" width="42">
