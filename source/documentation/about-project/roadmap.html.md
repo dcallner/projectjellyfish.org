@@ -6,8 +6,6 @@ status: published
 title: Roadmap
 ---
 
-## General Code Improvements
-
 ##### UI / UX
 
 *	Dashboard with health and status widgets
