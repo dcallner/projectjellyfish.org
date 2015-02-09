@@ -22,4 +22,4 @@ Here are a few screenshots of the application:
 
 <img src="/assets/screenshots/web/web1.png" alt="Screenshot 1" height="42" width="42">
 <img src="/assets/screenshots/web/web2.png" alt="Screenshot 2" height="42" width="42">
-<img src="/assets/screenshots/web/web3.png" alt="Screenshot 3">
+<img src="/assets/screenshots/web/web3.png" alt="Screenshot 3" height="42" width="42">

@@ -14,4 +14,4 @@ Here are a few mockups of the mobile app:
 
 <img src="/assets/screenshots/mobileapp/mobile1.png" alt="Screenshot 1" height="42" width="42">
 <img src="/assets/screenshots/mobileapp/mobile2.png" alt="Screenshot 2" height="42" width="42">
-<img src="/assets/screenshots/mobileapp/mobile3.png" alt="Screenshot 3">
+<img src="/assets/screenshots/mobileapp/mobile3.png" alt="Screenshot 3" height="42" width="42">
