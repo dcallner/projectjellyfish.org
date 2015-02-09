@@ -7,3 +7,5 @@ title: Mobile App
 ---
 
 Managing on the go? There’s an app for that! The app will interface with Jellyfish core via the REST API providing basic functionality such as managing rights, accessing the catalog, and monitoring project status. Exercise your creativity and contribute to the app development.
+
+Release 1 of the Mobile App is expected in April 2015.
