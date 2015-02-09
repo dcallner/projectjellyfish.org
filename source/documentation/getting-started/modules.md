@@ -6,7 +6,7 @@ status: published
 title: Modules
 ---
 
-Extensible and modular framework allows  developers to easily infuse new technologies and build additional plug-and-play interfaces without comprising the core architecture design.
+A module would be considered an add-on or plug-in to the Jellyfish core. It allows the creation of new data to be pulled from an external systems API, and/or that data to be processed in a specific way.
 
 
 #### ManageIQ
