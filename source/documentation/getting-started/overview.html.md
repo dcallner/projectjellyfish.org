@@ -16,5 +16,5 @@ For the latest documents on Jellyfish-UX please visit: [github.com/projectjellyf
 
 Screenshots:
 
-<img src="source/assets/screenshots/web/web1.png" alt="Screenshot 1" height="42" width="42">
-<img src="source/assets/screenshots/web/web2.png" alt="Screenshot 2" height="42" width="42">
+<img src="/assets/screenshots/web/web1.png" alt="Screenshot 1" height="42" width="42">
+<img src="/assets/screenshots/web/web2.png" alt="Screenshot 2" height="42" width="42">
