@@ -8,9 +8,35 @@
   .cell.row.tac
 
     .jellyfish-header.jellyfish--tagline
-      %h1 Open Cloud
+      %h1 Request a Trial
       = image_tag("jellyfish-header.png")
-      %h1 Connectivity
+
+
+
+    .cell.mbl#how-to-engage
+      .jellyfish-header.jellyfish--engage
+    %h3 
+    .cell
+      %p.tss
+        Please use this form to request a demo account of Project Jellyfish ready to go.  This will allow you to login to a demo instance of Project Jellyfish from there you can explore on your own all the Project Jellyfish features.  Once you complete the form, you will be emailed a URL, username, and password.  Please note that the demo will expire after 48 hours.
+      %form#form1.wufoo.topLabel.page{"accept-charset" => "UTF-8", :action => "https://projectjellyfish.wufoo.com/forms/z1qwvb2d1do31v9/#public", :autocomplete => "off", :enctype => "multipart/form-data", :method => "post", :name => "form1", :novalidate => ""}
+        .g.mbs
+          .g-b.g-b--m--1of3.input
+            .cell.cell--s
+              %input.input-text#name{type: 'text', name: 'Field1', required: 'required'}
+              %label.input-label{for: 'Field1'} Full Name
+          .g-b.g-b--m--1of3.input
+            .cell.cell--s
+              %input.input-text#email{type: 'text', name: 'Field2', required: 'required'}
+              %label.input-label{for: 'Field2'} Email
+          .g-b.g-b--m--1of3.input
+            .cell.cell--s
+              %input.input-text#organization{type: 'text', name: 'Field3', required: 'required'}
+              %label.input-label{for: 'Field3'} Organization
+        .cell.cell--s
+          %input.btn{type: 'submit', value: 'Make Request'}
+          %input#idstamp{:name => "idstamp", :type => "hidden", :value => "iRiCDpzIFOFs+E2daYphj6B22pLJGGoK2VgYJ1P6qAo="}
+
 
     %p .
     %p .
