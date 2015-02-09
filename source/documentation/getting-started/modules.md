@@ -3,7 +3,7 @@ layout: document
 priority: 3
 section: B. Getting Started
 status: published
-title: Components
+title: Modules
 ---
 
 #### ManageIQ
