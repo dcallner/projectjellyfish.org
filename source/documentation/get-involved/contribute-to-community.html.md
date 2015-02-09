@@ -3,7 +3,7 @@ layout: document
 priority: 2
 section: C. Get Involved
 status: published
-title: How to Contribute
+title: Contribute to Community
 ---
 
 Project Jellyfish is an open source project and because of that, we rely on the Open Source community members like you to help maintain and extend the software. Give Project Jellyfish a spin and then give us some feedback!  
