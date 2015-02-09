@@ -12,6 +12,7 @@ Project Jellyfish is an open source project and because of that, we rely on the 
 Do you want to go above and beyond just being a user? We want you to help make Project Jellyfish great!   We welcome your contribution if it’s creating an issue, fixing an issue, updating documentation, and/or adding new functionality!
 
 To report bugs and other issues, create issues within github for each respective project!
+
 * [github.com/projectjellyfish/ux/issues](https://github.com/projectjellyfish/ux/issues)
 * [github.com/projectjellyfish/api/issues](https://github.com/projectjellyfish/api/issues)
 
