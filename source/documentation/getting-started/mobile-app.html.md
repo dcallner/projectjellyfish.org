@@ -12,6 +12,9 @@ Release 1 of the Mobile App is expected in April 2015.
 
 Here are a few mockups of the mobile app:
 
+
+<div class="cell--s">
 <img src="/assets/screenshots/mobileapp/mobile1.PNG" alt="Screenshot 1">
 <img src="/assets/screenshots/mobileapp/mobile2.PNG" alt="Screenshot 2">
 <img src="/assets/screenshots/mobileapp/mobile3.PNG" alt="Screenshot 3">
+</div>
