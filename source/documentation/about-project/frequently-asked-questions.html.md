@@ -20,7 +20,7 @@ A cloud service management platform is a tool used by administrators to monitor 
 As an open source platform, Project Jellyfish can be customized to fit your cloud’s unique requirements and interact with your increasingly disparate resources. Project Jellyfish also leverages input from a diverse community of individual users and enterprises who understand, first hand, what it takes to successfully manage a cloud environment. Mold, bend, break, and shape Jellyfish to work for YOU.
 
 ##### What are Blueprints?
-ChrBlueprints are packaged solutions that define how take the core jellyfish product, combine it with different modules (Chef, Puppet, ManageIQ, Sensu, Nagios, advanced security app, etc.), install, and configure them for use to solve specific problems such as advanced brokering, PaaS, or data analytics. A Blueprint could be an install document, or it could be a Chef cookbook that configures everything for you.
+Blueprints are packaged solutions that define how take the core jellyfish product, combine it with different modules (Chef, Puppet, ManageIQ, Sensu, Nagios, advanced security app, etc.), install, and configure them for use to solve specific problems such as advanced brokering, PaaS, or data analytics. A Blueprint could be an install document, or it could be a Chef cookbook that configures everything for you.
 
 ##### How do I get Project Jellyfish?
 Project Jellyfish can be downloaded from [GitHub](https://github.com/projectjellyfish). There, you will find documentation and instructions for running Chef Cookbooks for setting up your platform.
