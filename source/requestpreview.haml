@@ -1,3 +1,4 @@
+%script{:src => "https://www.google.com/recaptcha/api.js"}
 .has-bubbles
   .bubbles
 
@@ -33,6 +34,7 @@
               %input.input-text#Field3{type: 'text', name: 'Field3', required: 'required'}
               %label.input-label{for: 'Field3'} Organization
         .cell.cell--s
+          .g-recaptcha{"data-sitekey" => "6LcwUAITAAAAAK5uJ5OOsw46PpDJdboqnWYTgLOj", :align => "center"}
           %input.btn{type: 'submit', value: 'Make Request'}
           %input#idstamp{:name => "idstamp", :type => "hidden", :value => "eUGEw6zdKgJdDN1+bDTcjFx27OdqKwmj4VtOJHYLYA4="}
 
