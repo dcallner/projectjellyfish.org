@@ -11,5 +11,5 @@ Project Jellyfish is an IT broker system. It allows administrators to create a p
 
 For the latest documents on Jellyfish API please visit:
 
-* [Read the Docs Project Jellyfish](http://projectjellyfish.readthedocs.org/en/latest/api_reference_guide/)
+* [Read the Docs Project Jellyfish](http://projectjellyfish.readthedocs.org/en/latest/)
 * [github.com/projectjellyfish/api](https://github.com/projectjellyfish/api)
